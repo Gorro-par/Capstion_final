@@ -1,3 +1,5 @@
+//2023.05.23 시작
+강의는 인프런 제로초 강의
 강의교안 기여(Pull Request) 환영합니다.
 
 백엔드 강좌 강의교안은 [여기](https://github.com/ZeroCho/sleact/blob/master/nest-typeorm/README.md) 에 있습니다. 
